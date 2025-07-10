@@ -12,7 +12,7 @@ class Shader
 public:
     unsigned int ID;
     //----------------------------------------
-    // CONSTRUCTOR GENERATES SHADER ON THE FLY
+    // SMEGMA
     // ---------------------------------------
 
     Shader(const char* vertexPath, const char* fragmentPath)
